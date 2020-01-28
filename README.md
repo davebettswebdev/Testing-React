@@ -26,10 +26,10 @@ In this project, you will **write tests** for an existing React application that
 
 Follow these steps to setup your git _fork_ and _branch_.
 
-- [ ] Fork this repository.
-- [ ] Use GitHub's website to add your project manager as collaborator on **your fork**.
-- [ ] **Clone your forked version** of the repository (**Not Lambda's**!).
-- [ ] Create a new branch: `git checkout -b <firstName-lastName>`.
+- [X] Fork this repository.
+- [X] Use GitHub's website to add your project manager as collaborator on **your fork**.
+- [X] **Clone your forked version** of the repository (**Not Lambda's**!).
+- [X] Create a new branch: `git checkout -b <firstName-lastName>`.
 - [ ] Commit changes to your `<firstName-lastName>` branch.
 - [ ] Push often to your branch: `git push origin <firstName-lastName>`.
 
